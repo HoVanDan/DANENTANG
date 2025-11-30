@@ -1,2 +1,33 @@
-Flutter-Chat-App/
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# VS Code
+.vscode/
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/**/gradle-wrapper.jar
+
+# iOS
+ios/Pods/
+ios/Flutter/.last_build_id
+ios/.symlinks/
+ios/ServiceDefinitions.json
+
+# macOS / Windows / Linux build artefacts
+macos/Flutter/GeneratedPluginRegistrant.swift
+windows/Flutter/GeneratedPluginRegistrant.cpp
+linux/flutter/ephemeral/
+
+# Misc
 .DS_Store
+.idea/
